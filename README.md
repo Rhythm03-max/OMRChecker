@@ -274,7 +274,7 @@ MIT — see `LICENSE`.
 
 **Built by [Ridam Roy](https://github.com/Rhythm03-max)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rhythm03-max-181717?style=flat-square&logo=github)](https://github.com/Rhythm03-max)
+[![GitHub](https://img.shields.io/badge/GitHub-Rhythm03--max-181717?style=flat-square&logo=github)](https://github.com/Rhythm03-max)
 [![Email](https://img.shields.io/badge/Email-ridam15--4260%40diu.edu.bd-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:ridam15-4260@diu.edu.bd)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003049,50:00798c,100:30c9a8&height=80&section=footer" width="100%"/>
