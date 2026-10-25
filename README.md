@@ -21,7 +21,7 @@
 > The blank answer sheet template the system is designed to recognize and grade.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/MCQPaper-Photoroom.png" width="55%" alt="Blank MCQ answer sheet template"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/OMRChecker/main/MCQPaper-Photoroom.png" width="55%" alt="Blank MCQ answer sheet template"/>
 </div>
 
 A 5-question × 5-choice (A–E) bubble grid, a `Name` field, and a `GRADE` box that the system overlays with the computed score after grading.
@@ -219,11 +219,11 @@ cap = cv2.VideoCapture('/dev/video2')   # change to your webcam index, e.g. 0
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/1.jpg" width="100%" alt="Sample filled answer sheet"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/OMRChecker/main/1.jpg" width="100%" alt="Sample filled answer sheet"/>
 <br/><b>Input</b> — Photographed answer sheet
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/FinalImage.jpg" width="100%" alt="Graded output with score overlay"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/OMRChecker/main/FinalImage.jpg" width="100%" alt="Graded output with score overlay"/>
 <br/><b>Output</b> — Graded, with score overlaid on the sheet (<code>omr.py</code>)
 </td>
 </tr>
