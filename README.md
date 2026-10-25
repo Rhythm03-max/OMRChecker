@@ -21,7 +21,7 @@
 > The blank answer sheet template the system is designed to recognize and grade.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Rhythm05Roy/Mcq-Paper-Checker/main/MCQPaper-Photoroom.png" width="55%" alt="Blank MCQ answer sheet template"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/MCQPaper-Photoroom.png" width="55%" alt="Blank MCQ answer sheet template"/>
 </div>
 
 A 5-question × 5-choice (A–E) bubble grid, a `Name` field, and a `GRADE` box that the system overlays with the computed score after grading.
@@ -160,8 +160,8 @@ A non-Streamlit OpenCV script intended for live webcam input (or a static image 
 ### Installation
 
 ```bash
-git clone https://github.com/Rhythm05Roy/Mcq-Paper-Checker.git
-cd Mcq-Paper-Checker
+git clone https://github.com/Rhythm03-max/OMRChecker.git
+cd OMRChecker
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
@@ -219,11 +219,11 @@ cap = cv2.VideoCapture('/dev/video2')   # change to your webcam index, e.g. 0
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Rhythm05Roy/Mcq-Paper-Checker/main/1.jpg" width="100%" alt="Sample filled answer sheet"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/1.jpg" width="100%" alt="Sample filled answer sheet"/>
 <br/><b>Input</b> — Photographed answer sheet
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Rhythm05Roy/Mcq-Paper-Checker/main/FinalImage.jpg" width="100%" alt="Graded output with score overlay"/>
+<img src="https://raw.githubusercontent.com/Rhythm03-max/Mcq-Paper-Checker/main/FinalImage.jpg" width="100%" alt="Graded output with score overlay"/>
 <br/><b>Output</b> — Graded, with score overlaid on the sheet (<code>omr.py</code>)
 </td>
 </tr>
@@ -272,9 +272,9 @@ MIT — see `LICENSE`.
 
 <div align="center">
 
-**Built by [Ridam Roy](https://github.com/Rhythm05Roy)**
+**Built by [Ridam Roy](https://github.com/Rhythm03-max)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rhythm05Roy-181717?style=flat-square&logo=github)](https://github.com/Rhythm05Roy)
+[![GitHub](https://img.shields.io/badge/GitHub-Rhythm03-max-181717?style=flat-square&logo=github)](https://github.com/Rhythm03-max)
 [![Email](https://img.shields.io/badge/Email-ridam15--4260%40diu.edu.bd-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:ridam15-4260@diu.edu.bd)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003049,50:00798c,100:30c9a8&height=80&section=footer" width="100%"/>
